@@ -1,7 +1,7 @@
 # Example Site settings
 
 title: 'calcpika.github.io'
-description: "if you don't understand math, do you really understand the universe?"
+description: "a topological space"
 url: "https://calcpika.github.io"
 
 header_pages:
@@ -9,7 +9,7 @@ header_pages:
   - about.md
   - connect.md
 
-footer: 'this is very cool.'
+footer: "if you don't understand math, do you really understand the universe?"
 plugins:
   - jekyll-seo-tag
 
