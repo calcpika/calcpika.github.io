@@ -1,5 +1,5 @@
 ---
 title: /connect
 layout: page
-permalink: /
+permalink: /connect/
 ---
