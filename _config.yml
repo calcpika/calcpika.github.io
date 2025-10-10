@@ -15,10 +15,10 @@ plugins:
 
 # Theme options
 style: light # dark (default) or light or hacker
-listen_for_clients_preferred_style: true # true or false (default)
+listen_for_clients_preferred_style: false # true or false (default)
 
 # Fonts
-disable_google_fonts: false # set true to prevent loading fonts.googleapis.com
+disable_google_fonts: true # set true to prevent loading fonts.googleapis.com
 
 # Tracking (generic, optional; loads only in production)
 # tracking:
