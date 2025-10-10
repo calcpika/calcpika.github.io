@@ -7,6 +7,7 @@ url: "https://calcpika.github.io"
 header_pages:
   - home.md
   - about.md
+  - connect.md
 
 footer: 'this is very cool.'
 plugins:
