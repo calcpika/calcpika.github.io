@@ -5,7 +5,7 @@ description: "this is cool."
 url: "https://calcpika.github.io"
 
 header_pages:
-  - index.md
+  - home.md
   - about.md
 
 footer: 'this is very cool.'
