@@ -1,11 +1,14 @@
 # Example Site settings
 
+title: 'calcpika.github.io'
+description: "this is cool."
+url: "https://calcpika.github.io"
+
 header_pages:
   - index.md
   - about.md
 
 footer: 'this is very cool.'
-remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-seo-tag
 
