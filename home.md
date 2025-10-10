@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# welcome to calcpika's topological space
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+in this space, you will be able to explore my short website with a fun twist (i hope) to some of the things that i like. you can find the music i listen to, some books i have been reading, my personal interests and other random things. i have another website (more professional than whatever this is) but for the sake of anonymity, it shall not be disclosed :D (unless you're able to find it, good luck!)
