@@ -16,5 +16,5 @@ if you would like to send me an email, you can write to calcoholic [at] calcpika
 
 here are a few of my friends' profiles! 
 
-[zach](https://maxercaber.github.io)
 [sahan](https://sahanwijetunga.github.io/)
+whelp... i wish i had more friends with github profiles...
