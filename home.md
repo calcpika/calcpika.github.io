@@ -10,7 +10,7 @@ in this space, you will be able to explore my short website with a fun twist (i 
 
 # latest
 
-directed reading program w/ a grad student in mathematical machine learning
+directed reading program w/ a grad student in reinforcement learning
 research assistant at the brain mapping center
 created a punk music club
 learning programming in computer vision
