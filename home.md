@@ -15,4 +15,4 @@ research assistant at the brain mapping center
 created a punk music club
 learning programming in computer vision
 
-<div style="text-align: right"> updated: 10/10/2025, 19:52 </div>
+updated: 10/10/2025, 19:52
