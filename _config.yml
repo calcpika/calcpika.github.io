@@ -7,6 +7,7 @@ url: "https://calcpika.github.io"
 header_pages:
   - home.md
   - about.md
+  - class.md
   - connect.md
 
 footer: "if you don't understand math, do you really understand the universe?"
