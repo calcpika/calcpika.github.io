@@ -10,8 +10,8 @@ in this space, you will be able to explore my short website with a fun twist (i 
 
 # latest
 
+joined the mathematical machine learning research group
 directed reading program w/ a grad student in reinforcement learning
-research assistant at the brain mapping center
 created a punk music club
 learning programming in computer vision
 
