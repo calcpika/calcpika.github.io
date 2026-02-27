@@ -10,9 +10,6 @@ in this space, you will be able to explore my short website with a fun twist (i 
 
 # latest
 
-joined the mathematical machine learning research group
-directed reading program w/ a grad student in reinforcement learning
-created a punk music club
-learning programming in computer vision
+beep. bop. boop. peek-a-boo!
 
-updated: 10/10/2025, 19:52
+updated: 02/27/2026
