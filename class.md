@@ -4,23 +4,17 @@ layout: page
 permalink: /class/
 ---
 
-what i am studying
+what i am studying for spring
 ===========
 
-math 131ah - honors real analysis I
-math 156 - machine learning
-math 266a - graduate applied ordinary diffeq I
-math 269a - graduate numerical analysis I
-ece c143a - neural signal processing & brain-computer interfaces
-stats 13 - R programming (honestly, i don't count this...)
+physics 1b - electricity & magnetism
+physics 4al - mechanics lab
+ece m16 - logic design of digital systems
+ece 3 - intro. to electrical & computer engineering
+ece c247b - neural networks & deep learning II
+cs 263 - natural language processing
+cs 269 - current topics in artificial intelligence
 
-what i (might) study next quarter
-===========
 
-math 131bh - honors real analysis II
-math 155 - mathematical imaging
-math 266b - graduate applied partial diffeq II
-math 269b - graduate numerical analysis II
-math 270b - graduate computational linear algebra I
-ece c147a - neural networks & deep learning I
+
 
