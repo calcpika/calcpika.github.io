@@ -12,9 +12,9 @@ i chose applied mathematics as my initial field of study because i enjoyed (more
 
 anyway, enough with the academics! here are some things about me :D
 
-musical taste (whoa): rock, metal, grunge, jazz, alternative (don't judge but a little bit of clairo and taylor swift)\
-my favorite cuisine: i think indian food is pretty good but korean, italian, japanese and thai food are up there as well\
-games: sudoku (but that's more math i suppose...) and chess\
-favorite football club: barcelona and bayern munich\
-favorite formula 1 team: ferrararari (i am tifosi!)\
+musical taste (whoa): rock, metal, grunge, jazz, alternative (don't judge but a little bit of clairo and taylor swift)
+my favorite cuisine: i think indian food is pretty good but korean, italian, japanese and thai food are up there as well
+games: sudoku (but that's more math i suppose...) and chess
+favorite football club: barcelona and bayern munich
+favorite formula 1 team: ferrararari (i am tifosi!)
 other interests: i am trying to become good at rock climbing and i love backpacking to national forests
